@@ -7,15 +7,16 @@ And, the picture has nothing to do with the content.
 # Current progress
 * Space Marine Forces
 * Slifae portraits (80%)
- * Animated Synthetics Portraits Expanded：Reborn
- *Horror portraits
- *Aquilesi portraits 
- *Holosphere portraits
- *Hyenafolk_portraits
- *Serpentoid portraits 
- *Xirmian portraits
- *Silicoid portraits
- *Octeelan portraits
- *Sharkanian portraits
+   * Animated Synthetics Portraits Expanded：Reborn
+   * Horror portraits
+   * Aquilesi portraits 
+   * Holosphere portraits
+   * Hyenafolk_portraits
+   * Serpentoid portraits 
+   * Xirmian portraits
+   * Silicoid portraits
+   * Octeelan portraits
+   * Sharkanian portraits
+
  
  If the mod does not work, please try to overwrite this mod file into the original mod file.
