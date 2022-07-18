@@ -5,9 +5,9 @@ So, most attentions of Doves Chinese Localization FE also available for here.
 And, the picture has nothing to do with the content.
 
 # Current progress
-*Space Marine Forces
-*Slifae portraits (80%)
- *Animated Synthetics Portraits Expanded：Reborn
+* Space Marine Forces
+* Slifae portraits (80%)
+ * Animated Synthetics Portraits Expanded：Reborn
  *Horror portraits
  *Aquilesi portraits 
  *Holosphere portraits
