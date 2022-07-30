@@ -7,7 +7,7 @@ So, most attentions of Doves Chinese Localization FE also available for here.
 And, the picture has nothing to do with the content.
 
 # Current progress
-* Slifae portraits (80%)
+* Slifae portraits 
    * Animated Synthetics Portraits Expanded：Reborn
    * Horror portraits
    * Aquilesi portraits 
@@ -15,6 +15,7 @@ And, the picture has nothing to do with the content.
    * Hyenafolk_portraits
    * Serpentoid portraits 
    * Xirmian portraits
+   * Raptor portraits
    * Silicoid portraits
    * Octeelan portraits
    * Sharkanian portraits
